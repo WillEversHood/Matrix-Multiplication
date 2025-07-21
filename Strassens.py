@@ -1,3 +1,4 @@
+import numpy as np
 def strassen(A, B):
     n = len(A)
     
